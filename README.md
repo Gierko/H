@@ -1,5 +1,5 @@
-# H
+# Hackathon - Wild Code School - 11th to 13th January
 
 
-Voici un vivier de données
+Here is a pool of data
 
